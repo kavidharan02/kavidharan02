@@ -1,6 +1,6 @@
 # kavidharan02-
 <h1 align="center">Hi 👋, I'm Kavidharan S</h1>
-<h3 align="center">A Aspiring Full Stack developer from India</h3>
+<h3 align="center">An Aspiring Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavidharan02&label=Profile%20views&color=0e75b6&style=flat" alt="kavidharan02" /> </p>
 
