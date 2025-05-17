@@ -1,4 +1,4 @@
-# kavidharan02-
+# kavidharan02
 <h1 align="center">Hi 👋, I'm Kavidharan S</h1>
 <h3 align="center">An Aspiring Full Stack developer from India</h3>
 
